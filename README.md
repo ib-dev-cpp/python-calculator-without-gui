@@ -1,2 +1,2 @@
 # python-calculator-without-gui
-this is an advanced python calculator with 3 line of python code
+this is an advanced calculator with 3 line of python code
